@@ -1,0 +1,5 @@
+Nombre: Beatriz
+Apellido: Barrero
+Correo: orozcobe@gmail.com
+RH: O+
+cm: 143

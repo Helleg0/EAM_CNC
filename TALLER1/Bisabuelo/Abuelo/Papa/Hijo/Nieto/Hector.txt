@@ -1,0 +1,5 @@
+Nombre: Hector
+Apellido: Garcia
+Correo: hecGar@gmail.com
+RH: O-
+cm: 165

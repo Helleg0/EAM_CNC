@@ -1,0 +1,5 @@
+Nombre: Nestor
+Apellido: Bustos
+Correo: nestorvital@yahoo.es
+RH: O+
+cm: 170
